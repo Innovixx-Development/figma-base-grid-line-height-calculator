@@ -1,0 +1,14 @@
+{
+  "name": "0409-base-grid-line-height-calculator",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.57.1",
+    "typescript": "^4.9.4"
+  }
+}
